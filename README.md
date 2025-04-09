@@ -227,6 +227,11 @@ Another comment
 ---
 ```
 
+### Get Ticket Comments
+```
+GET /api/tickets/:id/comments
+```
+
 ### Create Ticket
 
 Creates a new Jira ticket.
